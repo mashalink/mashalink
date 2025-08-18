@@ -10,7 +10,11 @@
 
 
 ### 📊 Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=default&hide_border=false&card_width=400&card_height=450) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=default&hide_border=false&card_width=400&card_height=450)
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=default&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=default&hide_border=false&langs_count=6" />
+</p>
+
 
 
 ### 🏆 Achievements
