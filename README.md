@@ -10,10 +10,17 @@
 
 
 ### 📊 Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=default&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=default&hide_border=false&langs_count=6" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=default&hide_border=false" />
+    </td>
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=default&hide_border=false&langs_count=6" />
+    </td>
+  </tr>
+</table>
+
 
 
 
