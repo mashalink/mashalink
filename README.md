@@ -10,7 +10,8 @@
 
 
 ### 📊 Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a&icon_color=3b82f6) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=default&hide_border=false&card_width=400&card_height=200) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=default&hide_border=false&card_width=400&card_height=200)
+
 
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashalink&theme=flat&row=1&column=6&no-bg=true&margin-w=15&title=Stars,Commits,PullRequest,Issues,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
