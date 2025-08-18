@@ -9,8 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
 
 ### 📊 Stats
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a&icon_color=3b82f6)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashalink&show_icons=true&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a&icon_color=3b82f6) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashalink&layout=compact&theme=tokyonight&bg_color=ffffff&title_color=0ea5e9&text_color=0f172a)
 
 ### 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashalink&theme=flat&row=1&column=6&no-bg=true&margin-w=15&title=Stars,Commits,PullRequest,Issues,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
