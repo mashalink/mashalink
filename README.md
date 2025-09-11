@@ -28,3 +28,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mashalink&theme=flat&row=1&column=6&no-bg=true&margin-w=15&title=Stars,Commits,PullRequest,Issues,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:3b82f6&height=100&section=footer)
+
+
+<details>
+  <summary><b>Maria Link — Web Portfolio</b> · <a href="https://mashalink.github.io/web-portfolio/">Live</a> · <a href="https://github.com/mashalink/web-portfolio">Repo</a></summary>
+
+A personal one-page portfolio with a separate projects page that showcases other works as well.  
+**Tech:** HTML/CSS/JavaScript  
+**Highlights:** responsive, EN/RU/FI, light/dark, smooth transitions, burger menu, modals, back-to-top, accessibility.
+
+</details>
