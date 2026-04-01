@@ -49,5 +49,6 @@ React, JavaScript, Node.js, Express, PHP, PostgreSQL, Sequelize, MySQL, WordPres
 
 ## Links
 
-- Portfolio: https://mashalink.github.io/web-portfolio/
-- GitHub: https://github.com/mashalink
+- [Portfolio](https://mashalink.github.io/web-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/maria-link-4a61731a1/)
+- [GitHub](https://github.com/mashalink)
