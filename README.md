@@ -8,7 +8,15 @@ My main stack is React, Node.js, Express, and PostgreSQL.
 ![Current Focus](https://img.shields.io/badge/Current%20Focus-Backend%20on%20EllarionTales-0f766e?style=flat-square)
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,html,css,git,github" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-20232A?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -60,4 +68,3 @@ Full-stack registration system for a LARP event.
 
 - [Portfolio](https://mashalink.github.io/web-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/maria-link-4a61731a1/)
-
