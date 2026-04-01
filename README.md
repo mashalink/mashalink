@@ -2,7 +2,9 @@
 
 Aspiring full-stack developer based in Espoo.
 
-I am a software development student at Business College Helsinki and currently an intern on EllarionTales, where I focus mainly on backend development: business logic, run-availability rules, transactional registration flow, and automated test coverage.
+I am a software development student at Business College Helsinki and previously completed the Hive Helsinki curriculum.
+I am currently an intern on EllarionTales, where I focus mainly on backend development: business logic, run-availability rules, transactional registration flow, and automated test coverage.
+
 My main stack is React, Node.js, Express, and PostgreSQL.
 
 ![Current Focus](https://img.shields.io/badge/Current%20Focus-Backend%20on%20EllarionTales-0f766e?style=flat-square)
