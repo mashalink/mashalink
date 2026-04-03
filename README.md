@@ -1,10 +1,11 @@
 # Maria Link
 
-Backend-focused aspiring full-stack developer based in Espoo.
+Backend-focused full-stack developer building reliable systems with complex registration logic and consistent data handling.
 
 I am a software development student at Business College Helsinki and previously completed the Hive Helsinki curriculum.
 
-I am currently an intern on EllarionTales, where I focus mainly on backend development: business logic, run-availability rules, transactional registration flow, and automated test coverage.
+I am currently working as an intern on EllarionTales, focusing on backend development:
+designing business logic, implementing run-availability rules, and building transactional registration flows with automated test coverage.
 
 ![Current Focus](https://img.shields.io/badge/Current%20Focus-Backend%20on%20EllarionTales-0f766e?style=flat-square)
 
@@ -24,46 +25,45 @@ I am currently an intern on EllarionTales, where I focus mainly on backend devel
 
 ## Current Focus
 
-- Backend development with Node.js and Express
-- Business logic for registration and availability flows
-- Automated testing and CI
-- REST APIs and database-driven applications
-- Full-stack development with React and PostgreSQL
+- Designing backend systems with Node.js and Express
+- Implementing business logic for availability and registration flows
+- Writing automated tests and setting up CI pipelines
+- Building REST APIs and working with PostgreSQL
+- Developing full-stack applications with React
+
+## Key Experience
+
+### EllarionTales (internship project)
+- backend business logic for registration system
+- run-availability rules and capacity handling
+- transactional registration flow
+- automated testing and CI
+
+**Tech:** React, Node.js, Express, PostgreSQL, Sequelize  
 
 ## Selected Public Projects
 
-### [Web Portfolio](https://github.com/mashalink/web-portfolio)
-Personal portfolio website and project showcase.
+### [HR App](https://github.com/mashalink/hrApp)
+Developed a full-stack employee management app with a separated frontend and backend, focusing on implementing CRUD workflows, handling structured employee data in PostgreSQL, and building a practical admin interface for real-world record management.
 
-**Tech:** HTML, CSS, JavaScript  
-**Focus:** responsive layout, accessibility, multilingual content, and UI polish
+**Tech:** React, Vite, Axios, Material UI, JSON Server
 
-Live: https://mashalink.github.io/web-portfolio/
+Live: https://hrappsite.onrender.com/
 
-### [FullStack Open Coursework](https://github.com/mashalink/FullStack)
-Repository of my FullStack Open coursework and full-stack exercises.
+### [FullStack Open](https://github.com/mashalink/FullStack)
+Full-stack application project based on the Full Stack Open curriculum.
 
-**Tech:** React, Node.js, Express, MongoDB, Redux, testing tools  
-**Focus:** modern React development, backend APIs, authentication, testing, and deployment
+**Tech:** React, Node.js, Express, MongoDB, Redux, testing tools
 
 Live: https://bloglist-dunc.onrender.com/  
 Demo login: `demo` / `demopass`
 
-### [HR App](https://github.com/mashalink/hrApp)
-Employee management application with separate frontend and backend.
+### [Web Portfolio](https://github.com/mashalink/web-portfolio)
+Personal portfolio website and project showcase.
 
-**Tech:** React, Vite, Axios, Material UI, JSON Server  
-**Focus:** CRUD flows, routing, forms, API integration, and practical admin-style UI
+**Tech:** HTML, CSS, JavaScript
 
-Live: https://hrappsite.onrender.com/
-
-## Current Private Project
-
-### EllarionTales
-Full-stack registration system for a LARP event.
-
-**Tech:** React, Node.js, Express, PostgreSQL, Sequelize  
-**Focus:** backend business logic, run-availability rules, transactional registration flow, automated tests, and CI
+Live: https://mashalink.github.io/web-portfolio/
 
 ## Links
 
