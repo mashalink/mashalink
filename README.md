@@ -56,7 +56,7 @@ Solutions for Full Stack Open Parts 0-7, including React frontends, Express back
 Live: https://bloglist-dunc.onrender.com/  
 Demo login: `demo` / `demopass`
 
-### [Web Portfolio](https://github.com/mashalink/web-portfolio)
+### [Web Portfolio](https://mashalink.github.io/webPortfolio/)
 Multilingual personal portfolio website built with plain HTML, CSS, and JavaScript, focused on clear project presentation, accessibility, theme switching, and lightweight CI for a static site.
 
 **Tech:** HTML, CSS, JavaScript, GitHub Actions, Lighthouse
@@ -65,5 +65,5 @@ Live: https://mashalink.github.io/web-portfolio/
 
 ## Links
 
-- [Portfolio](https://mashalink.github.io/web-portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/maria-link-4a61731a1/)
+- [Portfolio](https://mashalink.github.io/webPortfolio/)
+- [LinkedIn](https://www.linkedin.com/in/maria-link-dev/)
